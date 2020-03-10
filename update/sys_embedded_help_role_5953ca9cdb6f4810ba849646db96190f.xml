@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="scopeapp" name="scopeapp">5153ca9cdb6f4810ba849646db96190d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>alekya.maramreddy@snc</sys_created_by>
+        <sys_created_on>2020-03-10 14:50:30</sys_created_on>
+        <sys_id>5953ca9cdb6f4810ba849646db96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5153ca9cdb6f4810ba849646db96190d</sys_name>
+        <sys_package display_value="scopeapp" source="x_snc_scopeapp">43f2029cdb6f4810ba849646db961995</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="scopeapp">43f2029cdb6f4810ba849646db961995</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5953ca9cdb6f4810ba849646db96190f</sys_update_name>
+        <sys_updated_by>alekya.maramreddy@snc</sys_updated_by>
+        <sys_updated_on>2020-03-10 14:50:30</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
